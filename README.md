@@ -4,7 +4,7 @@
 
 Tôi hiện đang học chuyên ngành **An ninh mạng** tại trường Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT). Các báo cáo trong thư mục này được thực hiện trong quá trình học các môn thuộc chuyên ngành và liên quan đến lĩnh vực Công nghệ Thông tin.
 
-![Logo HUFLIT](./huflit-logo.png)  
+![Logo HUFLIT](./huflit-logo.jpg)  
 *Logo trường Đại học HUFLIT*
 
 ## Danh sách môn học và khả năng đạt được
